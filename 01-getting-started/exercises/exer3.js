@@ -3,4 +3,4 @@
  and read the error message carefully. Getting comfortable with errors starts now. 
 */
 
-console.log("This is a test of error handling);
+//console.log("This is a test of error handling);
