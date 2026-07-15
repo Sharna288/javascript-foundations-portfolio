@@ -45,8 +45,8 @@ Metropolitan University
 
 ### Part I — JavaScript Foundations
 
-- [x] Chapter 1 — Getting Started
-- [x] Chapter 2 — Variables and Data Types
+- [*] Chapter 1 — Getting Started
+- [*] Chapter 2 — Variables and Data Types
 - [ ] Chapter 3 — Operators and Control Flow
 - [ ] Chapter 4 — Loops
 - [ ] Chapter 5 — Functions
