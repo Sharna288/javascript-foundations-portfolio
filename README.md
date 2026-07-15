@@ -47,7 +47,7 @@ Metropolitan University
 
 - [*] Chapter 1 — Getting Started
 - [*] Chapter 2 — Variables and Data Types
-- [ ] Chapter 3 — Operators and Control Flow
+- [*] Chapter 3 — Operators and Control Flow
 - [ ] Chapter 4 — Loops
 - [ ] Chapter 5 — Functions
 - [ ] Chapter 6 — Arrays
